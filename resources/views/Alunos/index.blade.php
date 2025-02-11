@@ -36,7 +36,6 @@
 
 <h1>Lista de Alunos Cadastrados</h1>
 
-<!-- Tabela para exibir alunos cadastrados -->
 <table id="Corpo">
     <tr>
         <th>Nome</th>
